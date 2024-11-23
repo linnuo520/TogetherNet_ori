@@ -1,0 +1,958 @@
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_000504.jpg 36,34,79,123,0 2,44,36,120,0 29,42,41,64,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_000836.jpg 69,99,224,297,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_002954.jpg 118,22,200,292,0 351,166,461,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_005086.jpg 39,145,144,375,0 269,42,498,372,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_005124.jpg 3,33,271,324,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_005212.jpg 355,203,432,267,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_005281.jpg 121,244,177,336,1 132,181,190,322,0 59,199,89,318,0 17,179,68,352,0 97,228,110,253,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_006744.jpg 146,124,369,375,0 90,1,500,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_006900.jpg 1,117,150,203,2 1,151,61,310,2 86,120,490,337,2 327,82,465,185,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007083.jpg 40,120,253,412,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007103.jpg 154,274,248,382,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007235.jpg 135,108,370,284,1 171,27,326,249,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007277.jpg 6,111,315,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007480.jpg 95,11,468,303,4 82,93,139,269,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007606.jpg 119,41,415,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007618.jpg 33,51,202,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007688.jpg 4,37,500,373,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007726.jpg 7,273,22,305,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007773.jpg 153,277,211,311,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007810.jpg 80,1,337,127,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_007818.jpg 1,140,40,166,2 43,135,93,166,2 92,136,135,165,2 143,134,184,165,2 186,139,216,163,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_008897.jpg 182,79,378,336,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_008921.jpg 128,2,339,400,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_009258.jpg 63,175,334,500,1 52,1,321,470,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_009392.jpg 410,194,500,331,4 249,230,294,247,2 215,223,249,237,2 173,223,206,237,2 290,223,314,233,2 19,224,51,238,2 1,283,74,331,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_009691.jpg 1,187,497,333,3 124,15,294,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_009736.jpg 6,5,333,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2007_009901.jpg 104,76,199,337,0 265,46,424,368,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000034.jpg 1,156,103,336,0 36,111,198,416,0 91,42,338,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000052.jpg 159,71,276,140,2 156,73,169,114,0 141,78,154,113,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000204.jpg 130,206,151,251,0 132,217,164,293,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000223.jpg 229,99,318,311,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000268.jpg 170,22,388,316,0 1,1,216,317,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000317.jpg 3,101,210,375,0 154,143,330,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000321.jpg 305,10,327,49,0 330,8,357,48,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000340.jpg 1,76,333,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000378.jpg 15,182,228,333,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000389.jpg 234,207,264,307,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000393.jpg 69,94,137,313,0 144,106,208,315,0 221,122,282,317,0 17,110,67,243,0 426,167,460,229,0 430,218,490,320,0 384,162,429,225,0 208,116,241,173,0 267,131,297,195,0 347,150,383,240,0 196,178,355,307,3 274,163,380,293,3 108,91,149,167,0 1,112,25,156,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000421.jpg 1,171,308,375,0 61,161,414,375,0 156,106,488,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000562.jpg 152,87,237,283,0 220,68,348,294,0 132,176,394,350,1 282,134,435,204,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000579.jpg 58,84,460,326,0 1,27,235,326,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000624.jpg 1,77,285,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000645.jpg 64,19,261,240,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000650.jpg 16,1,293,240,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000666.jpg 165,85,227,203,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000673.jpg 1,20,271,213,0 126,83,226,167,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000677.jpg 63,103,194,375,0 134,102,208,334,0 202,86,299,292,0 298,57,394,286,0 323,88,463,366,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000725.jpg 17,77,109,228,0 110,82,193,240,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000729.jpg 4,4,295,200,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000737.jpg 7,39,308,411,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000753.jpg 8,123,235,454,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000792.jpg 204,198,226,250,0 241,199,262,252,0 258,197,277,259,0 294,192,328,268,0 316,195,349,267,0 349,195,374,263,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000822.jpg 146,32,315,426,0 318,174,419,364,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000826.jpg 207,109,270,311,0 154,102,218,312,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000841.jpg 1,19,335,338,0 261,23,500,338,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000899.jpg 3,1,351,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000904.jpg 222,104,424,320,0 139,15,394,320,0 74,104,236,320,0 427,40,500,72,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000939.jpg 1,37,500,263,2 134,26,183,82,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_000983.jpg 232,55,374,500,0 40,40,233,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001039.jpg 332,146,395,322,0 266,146,292,222,0 174,161,202,241,0 227,143,294,197,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001060.jpg 81,49,500,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001062.jpg 100,63,140,94,2 329,55,374,91,2 404,64,438,84,2 440,69,485,83,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001098.jpg 32,30,259,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001139.jpg 87,22,329,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001171.jpg 40,101,112,252,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001227.jpg 280,122,396,375,0 1,103,114,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001299.jpg 1,53,389,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001404.jpg 111,126,264,500,0 91,267,245,500,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001429.jpg 18,11,296,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001491.jpg 17,73,447,258,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001589.jpg 51,10,293,495,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001615.jpg 264,52,423,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001631.jpg 39,97,95,137,2 398,98,455,127,2 7,95,49,119,2 159,66,200,104,0 246,37,322,153,0 311,50,362,181,0 360,56,409,166,0 470,62,500,189,0 12,85,310,354,3 101,91,116,129,0 13,89,24,129,0 436,101,475,126,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001634.jpg 93,134,168,330,0 245,127,331,329,0 220,25,311,197,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001649.jpg 133,222,216,321,0 177,217,244,367,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001667.jpg 15,64,333,500,0 191,204,310,421,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001681.jpg 217,251,236,263,2 145,249,166,262,2 51,231,95,296,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001714.jpg 126,184,215,353,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001724.jpg 127,87,333,500,0 1,162,274,500,0 34,331,231,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001750.jpg 1,159,31,268,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001754.jpg 118,50,343,375,0 98,116,299,375,0 171,227,266,309,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001773.jpg 309,136,438,246,0 181,134,328,240,0 104,197,249,315,0 134,182,204,252,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001863.jpg 1,68,227,375,0 252,140,463,325,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001908.jpg 190,321,232,335,2 244,312,293,328,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_001965.jpg 203,53,269,144,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002031.jpg 140,40,226,240,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002067.jpg 153,11,483,375,0 1,1,225,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002131.jpg 430,151,452,202,0 462,150,481,204,0 449,147,465,205,0 118,152,147,201,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002132.jpg 53,131,147,316,0 104,137,198,315,0 191,143,252,316,0 248,144,313,319,0 305,137,380,318,0 370,143,438,315,0 415,131,464,192,0 459,134,499,195,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002172.jpg 109,36,203,231,0 190,73,236,148,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002199.jpg 1,154,268,306,2 342,183,500,370,2 102,164,173,370,0 177,166,216,327,0 292,160,408,375,0 272,161,334,312,0 252,177,290,303,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002247.jpg 60,127,194,482,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002272.jpg 44,115,333,468,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002319.jpg 40,145,216,365,0 90,116,218,271,0 230,120,364,312,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002351.jpg 299,69,500,375,0 27,20,310,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002366.jpg 1,55,331,500,2 116,99,256,285,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002370.jpg 258,1,320,110,3 182,1,244,94,3 77,1,197,240,3 98,1,143,72,3 1,1,81,240,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002384.jpg 177,161,337,375,0 368,224,500,366,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002411.jpg 197,174,242,302,0 42,180,112,341,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002412.jpg 25,157,486,333,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002437.jpg 193,152,240,178,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002499.jpg 32,14,445,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002520.jpg 148,25,448,371,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002578.jpg 41,95,105,234,0 97,71,140,221,0 181,63,221,174,0 20,195,105,343,0 91,188,172,354,0 118,135,181,223,0 182,140,248,306,0 243,130,316,294,0 138,62,189,168,0 218,56,266,163,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002588.jpg 367,1,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002666.jpg 208,82,322,330,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002675.jpg 133,248,308,500,0 74,45,227,453,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002700.jpg 138,73,360,365,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002830.jpg 179,94,490,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002864.jpg 238,68,494,375,0 1,55,164,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002885.jpg 194,39,331,308,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002929.jpg 263,161,375,333,0 124,166,255,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002948.jpg 9,1,169,333,1 397,16,500,375,3 1,1,135,306,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002960.jpg 255,73,427,292,0 46,92,222,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002978.jpg 390,133,473,266,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_002985.jpg 319,71,448,351,0 170,131,263,352,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003015.jpg 162,41,448,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003022.jpg 438,110,500,146,2 406,115,466,141,2 32,70,475,302,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003082.jpg 378,239,439,295,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003120.jpg 45,33,297,313,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003154.jpg 248,8,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003157.jpg 39,161,143,360,0 139,190,229,360,0 227,163,327,360,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003242.jpg 54,4,335,334,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003278.jpg 385,157,500,375,0 183,42,305,375,0 274,69,380,375,0 36,49,200,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003284.jpg 143,1,437,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003378.jpg 398,238,440,276,2 313,241,354,273,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003379.jpg 189,32,264,187,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003405.jpg 143,103,189,118,2 196,102,244,116,2 260,102,306,117,2 325,103,450,147,2 1,105,96,292,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003409.jpg 229,17,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003429.jpg 159,170,193,228,0 317,141,423,325,0 386,173,452,308,0 252,211,486,360,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003433.jpg 292,144,388,301,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003472.jpg 188,32,480,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003476.jpg 62,120,104,179,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003498.jpg 1,280,107,326,2 164,291,222,319,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003526.jpg 414,144,437,174,0 438,134,472,178,0 410,269,433,334,0 433,277,453,342,0 63,72,239,375,0 202,55,368,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003542.jpg 51,73,309,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003565.jpg 281,128,428,375,0 174,109,283,375,0 43,101,181,375,0 21,131,81,321,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003610.jpg 46,77,100,307,0 35,131,128,324,0 186,18,450,375,0 177,106,288,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003616.jpg 163,140,375,455,0 23,188,197,350,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003637.jpg 155,131,498,347,3 1,101,291,276,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003667.jpg 72,242,275,373,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003676.jpg 246,154,347,375,0 164,120,261,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003685.jpg 1,75,496,294,2 194,34,314,312,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003794.jpg 360,174,387,218,0 177,169,228,214,2 131,185,162,209,2 237,183,304,208,2 25,184,100,209,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003829.jpg 1,108,54,143,2 1,107,16,165,0 21,105,44,164,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003846.jpg 17,86,477,292,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003854.jpg 394,190,440,263,0 324,142,438,216,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003861.jpg 113,95,297,375,0 224,158,364,355,0 229,81,377,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_003864.jpg 375,55,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004040.jpg 211,135,278,286,0 300,142,349,293,0 274,196,402,296,1 206,204,253,299,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004100.jpg 458,191,500,222,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004163.jpg 1,350,54,439,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004182.jpg 437,89,488,121,2 356,121,389,234,0 323,113,365,230,0 288,122,335,295,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004208.jpg 1,143,132,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004327.jpg 349,278,377,360,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004354.jpg 223,39,312,265,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004358.jpg 232,218,269,284,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004365.jpg 23,140,263,476,3 36,41,278,411,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004371.jpg 250,17,395,263,3 351,111,475,266,0 98,101,245,259,0 30,1,199,363,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004380.jpg 316,144,500,387,0 264,146,418,315,0 8,99,178,300,0 1,251,178,466,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004403.jpg 1,41,299,375,0 249,57,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004435.jpg 101,29,214,184,0 131,77,355,336,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004470.jpg 191,76,274,254,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004492.jpg 118,101,226,245,0 276,119,423,291,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004544.jpg 260,106,494,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004549.jpg 32,99,437,356,3 82,16,196,210,0 1,121,59,257,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004553.jpg 1,31,333,469,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004564.jpg 26,86,206,326,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004617.jpg 1,1,375,500,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004666.jpg 139,37,336,375,0 363,8,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004703.jpg 1,136,158,250,3 30,95,123,219,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004794.jpg 90,241,192,279,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004892.jpg 9,66,106,201,0 120,74,202,200,0 191,71,279,181,0 269,86,334,177,0 351,65,423,184,0 411,68,500,214,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004968.jpg 99,258,131,284,4 2,255,43,368,0 48,258,63,313,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_004995.jpg 27,144,216,330,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005094.jpg 154,184,316,371,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005168.jpg 249,132,291,188,0 291,109,429,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005175.jpg 279,301,351,348,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005297.jpg 53,61,451,307,3 442,1,489,82,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005315.jpg 77,79,193,300,0 81,35,245,296,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005356.jpg 61,18,427,365,1 5,1,384,83,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005378.jpg 144,143,427,270,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005433.jpg 237,189,274,209,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005500.jpg 110,160,254,467,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005501.jpg 229,22,356,231,0 105,96,137,164,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005567.jpg 1,45,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005664.jpg 302,209,322,233,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005788.jpg 108,83,274,375,0 187,116,456,344,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005791.jpg 203,57,310,264,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005863.jpg 6,254,21,285,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005893.jpg 23,1,483,316,3 1,1,500,196,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_005978.jpg 47,53,222,475,0 44,248,194,500,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006015.jpg 27,154,87,234,0 37,99,105,202,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006037.jpg 83,178,141,210,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006047.jpg 159,154,309,375,0 327,148,395,375,0 310,71,342,122,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006071.jpg 65,94,174,280,0 325,163,367,216,0 350,163,385,213,0 437,142,485,160,2 311,133,359,152,2 189,123,240,142,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006188.jpg 25,133,399,347,2 319,122,401,326,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006272.jpg 1,165,277,360,2 36,110,135,378,0 166,113,245,373,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006316.jpg 376,196,494,259,2 321,190,448,264,2 239,183,403,269,2 136,186,345,279,2 12,176,219,281,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006341.jpg 155,121,450,370,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006377.jpg 17,1,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006407.jpg 146,172,213,226,0 122,155,154,209,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006483.jpg 125,142,362,255,4 298,210,398,296,2 375,197,454,247,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006526.jpg 209,13,500,333,0 1,176,85,298,3 14,163,106,252,3 204,141,248,179,2 87,128,137,155,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006579.jpg 16,27,480,353,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006611.jpg 1,109,205,343,0 338,95,497,343,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006714.jpg 110,49,488,300,2 236,65,277,104,0 50,46,163,102,2 1,52,55,104,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006762.jpg 131,140,404,306,2 364,129,396,144,2 131,110,167,124,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006774.jpg 34,104,458,304,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006816.jpg 67,63,500,478,0 181,172,481,478,0 439,230,500,310,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006818.jpg 74,134,92,182,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006844.jpg 146,38,335,375,0 76,108,424,375,2 422,183,500,243,2 30,183,86,243,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006855.jpg 242,361,362,490,0 203,328,312,458,0 122,239,198,389,1 218,248,303,372,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_006998.jpg 50,1,496,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007197.jpg 461,275,500,312,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007214.jpg 12,75,307,235,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007277.jpg 193,101,220,189,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007293.jpg 27,46,375,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007344.jpg 333,132,466,355,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007348.jpg 264,228,352,297,3 276,190,327,263,0 421,277,471,375,0 465,254,486,321,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007375.jpg 135,25,365,281,4 83,191,131,225,2 359,177,382,266,0 381,178,406,269,0 402,178,421,250,0 426,179,454,256,0 446,168,475,269,0 388,178,411,259,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007432.jpg 252,227,311,271,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007456.jpg 117,261,392,375,2 140,241,294,315,2 3,250,93,330,2 1,261,38,360,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007459.jpg 1,84,487,457,3 78,46,215,234,0 169,58,335,233,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007478.jpg 332,1,485,284,0 132,1,210,152,0 183,20,219,152,0 348,63,393,120,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007480.jpg 256,269,364,332,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007488.jpg 43,60,419,298,4 143,228,226,300,3 165,209,197,281,0 1,234,50,286,2 446,230,500,258,2 417,239,451,292,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007593.jpg 167,29,241,262,0 227,33,321,262,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007646.jpg 122,101,385,368,3 220,11,349,299,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007701.jpg 57,243,132,461,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007768.jpg 79,93,304,500,0 130,220,234,322,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007804.jpg 152,219,500,362,2 188,198,292,240,2 160,201,195,229,2 86,181,138,217,4 293,200,318,213,2 271,200,295,212,2 317,201,336,214,2 137,199,149,212,2 69,193,88,215,2 216,187,271,206,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007902.jpg 240,83,337,283,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007931.jpg 1,1,500,338,4 13,137,172,338,0 360,188,467,338,0 370,70,423,239,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007942.jpg 318,81,400,214,0 318,125,395,268,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007982.jpg 154,1,375,493,0 26,89,218,462,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007986.jpg 268,49,480,360,0 1,72,277,360,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_007994.jpg 1,1,406,329,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008001.jpg 425,198,500,259,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008154.jpg 172,24,281,263,0 66,121,182,309,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008217.jpg 245,1,500,373,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008319.jpg 129,116,197,305,0 38,88,94,241,0 10,63,61,210,0 105,120,138,223,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008324.jpg 105,193,243,447,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008335.jpg 6,62,377,474,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008395.jpg 231,78,308,263,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008410.jpg 53,46,249,320,0 125,59,308,354,0 188,98,427,354,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008443.jpg 1,269,334,500,1 1,13,195,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008462.jpg 310,228,413,285,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008474.jpg 352,126,474,321,0 427,171,468,214,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008564.jpg 194,99,336,268,1 192,29,314,205,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008684.jpg 213,171,295,260,4 287,170,359,239,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2008_008705.jpg 240,114,484,286,4 7,149,209,246,4 5,206,42,305,0 208,218,224,253,0 37,217,55,291,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000042.jpg 243,130,390,184,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000067.jpg 184,180,220,307,0 225,140,270,308,0 246,187,291,305,0 289,186,325,301,0 333,143,381,304,0 406,183,453,307,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000135.jpg 36,145,468,275,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000145.jpg 118,73,241,279,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000182.jpg 103,203,375,476,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000203.jpg 221,105,340,245,4 354,197,407,236,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000337.jpg 99,226,172,334,0 295,51,466,334,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000354.jpg 1,1,500,375,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000405.jpg 19,1,300,374,4 383,1,446,38,2 367,12,435,197,0 438,53,471,278,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000449.jpg 1,1,333,483,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000456.jpg 1,10,459,325,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000474.jpg 273,100,484,333,0 86,90,375,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000532.jpg 128,100,373,274,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000648.jpg 121,101,389,231,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000696.jpg 1,1,375,500,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000741.jpg 413,56,500,133,2 6,38,500,375,2 127,91,229,164,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000750.jpg 22,2,158,412,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000930.jpg 96,43,334,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_000974.jpg 423,270,454,352,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001011.jpg 89,48,232,211,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001026.jpg 240,51,299,144,0 285,85,314,139,0 311,102,344,139,0 334,73,445,334,0 56,49,190,342,0 176,65,309,327,0 474,121,500,145,2 407,125,433,144,2 45,115,78,135,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001171.jpg 47,44,148,320,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001230.jpg 167,168,184,193,0 215,163,234,217,0 256,169,275,226,0 229,167,241,217,0 361,124,371,133,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001237.jpg 419,245,500,320,2 89,64,403,305,4 120,191,152,219,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001286.jpg 1,58,240,274,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001350.jpg 239,415,247,459,0 233,402,242,452,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001454.jpg 17,40,283,325,0 235,146,397,305,0 171,111,240,172,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001521.jpg 270,169,374,428,0 125,123,284,475,0 1,47,207,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001546.jpg 414,283,500,361,2 430,293,449,311,0 304,296,437,357,2 1,216,343,375,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001611.jpg 24,86,236,375,0 277,76,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001646.jpg 57,35,488,296,3 321,1,398,125,0 1,2,211,125,3 425,1,500,48,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001675.jpg 63,27,456,374,4 1,165,74,331,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001734.jpg 100,154,419,269,4 52,196,79,271,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001809.jpg 440,164,500,375,0 257,180,422,375,0 99,178,276,375,0 40,34,151,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001830.jpg 239,118,369,385,1 197,153,243,299,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001847.jpg 49,95,445,288,4 461,172,487,249,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_001952.jpg 259,116,456,338,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002152.jpg 29,97,467,313,4 8,216,23,264,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002295.jpg 27,281,349,476,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002331.jpg 107,144,130,179,0 113,145,154,196,0 168,149,218,185,0 168,159,223,258,0 337,163,409,285,0 409,151,476,273,0 374,143,397,169,0 57,150,86,224,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002335.jpg 26,179,308,466,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002381.jpg 71,25,265,475,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002532.jpg 47,249,70,272,2 70,118,357,317,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002607.jpg 39,86,170,500,0 157,73,307,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002824.jpg 1,86,33,109,2 1,82,208,178,2 177,72,199,92,2 183,71,206,100,2 205,70,242,98,2 255,47,334,92,2 361,54,500,108,2 211,31,282,320,0 11,87,245,352,3 221,74,460,395,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002843.jpg 69,16,466,349,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002851.jpg 284,381,306,445,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002922.jpg 201,47,458,451,0 39,114,73,203,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_002985.jpg 1,33,500,375,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003019.jpg 346,337,364,355,0 363,331,379,356,0 392,341,408,358,0 439,336,459,349,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003044.jpg 107,63,489,372,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003071.jpg 99,86,259,248,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003076.jpg 40,64,263,249,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003090.jpg 33,79,462,260,3 157,63,365,271,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003154.jpg 3,101,130,375,0 80,90,199,263,0 315,118,500,375,0 308,139,404,295,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003234.jpg 129,10,476,220,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003265.jpg 222,33,421,217,0 287,127,449,333,0 26,59,173,333,0 133,107,227,222,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003363.jpg 358,103,500,320,0 334,141,454,375,0 269,141,358,375,0 210,148,278,342,0 94,128,224,347,0 1,133,105,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003381.jpg 19,24,472,316,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003385.jpg 1,11,490,500,4 432,210,475,268,0 486,221,500,293,0 460,223,500,297,0 316,136,350,224,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003387.jpg 1,114,500,332,2 2,96,94,188,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003416.jpg 89,124,323,283,3 1,114,227,228,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003437.jpg 39,110,141,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003500.jpg 45,2,415,333,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003589.jpg 31,92,469,312,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003656.jpg 92,304,183,375,0 312,336,362,375,0 441,296,478,375,0 474,277,500,375,0 140,316,161,344,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003683.jpg 2,119,194,375,0 202,79,358,375,0 400,89,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003710.jpg 64,39,373,310,4 220,187,253,228,0 301,192,321,232,0 373,202,393,302,0 392,209,418,309,0 414,211,445,313,0 448,200,472,309,0 466,210,497,250,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003720.jpg 274,86,447,321,0 42,85,172,303,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003725.jpg 385,142,435,193,0 336,158,382,205,0 183,254,211,293,0 89,242,120,295,0 33,246,64,297,0 130,262,266,293,2 241,255,387,290,2 368,240,469,289,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003751.jpg 53,78,174,333,0 111,133,284,333,0 225,70,364,333,0 315,32,500,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003846.jpg 28,65,500,317,3 458,56,500,219,0 432,116,457,176,0 1,100,56,174,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003873.jpg 1,76,75,312,3 24,18,365,497,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003905.jpg 32,37,333,439,1 249,126,333,178,2 129,159,153,171,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_003944.jpg 1,1,500,375,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004007.jpg 340,103,500,375,0 110,108,330,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004037.jpg 345,196,354,206,2 319,196,331,209,2 333,197,352,213,2 58,122,324,285,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004051.jpg 30,239,89,288,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004212.jpg 202,133,247,215,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004368.jpg 217,57,418,295,0 62,39,455,271,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004406.jpg 336,176,357,209,0 433,167,456,194,0 66,203,100,235,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004435.jpg 35,79,382,300,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004582.jpg 14,19,500,308,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004590.jpg 1,84,65,210,4 122,37,399,263,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004718.jpg 156,65,312,303,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004782.jpg 1,19,441,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004812.jpg 236,145,259,171,0 165,141,190,169,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004882.jpg 11,220,374,469,1 149,298,268,385,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004899.jpg 1,83,339,375,0 181,125,425,375,0 389,139,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004914.jpg 1,1,500,375,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004962.jpg 57,79,468,294,4 29,168,58,201,2 82,156,96,174,0 150,156,162,173,0 195,155,207,171,0 309,126,343,173,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_004975.jpg 11,1,500,371,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_005057.jpg 21,132,166,500,0 185,138,288,443,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_005144.jpg 1,1,499,334,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_005178.jpg 39,33,457,396,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2009_005194.jpg 133,219,163,290,3 116,218,139,268,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000069.jpg 47,6,463,341,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000076.jpg 470,64,500,99,2 210,138,285,195,3 230,115,280,175,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000083.jpg 43,212,127,310,1 81,154,137,301,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000084.jpg 166,131,201,183,0 256,85,318,133,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000133.jpg 256,95,372,307,0 23,92,100,286,0 31,98,145,297,0 160,106,209,301,0 113,110,194,301,0 188,83,285,306,0 345,168,368,225,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000249.jpg 11,177,68,235,2 1,175,36,254,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000255.jpg 5,22,500,335,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000466.jpg 15,92,382,235,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000493.jpg 279,156,357,214,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000500.jpg 13,20,441,312,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000578.jpg 75,103,301,365,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000590.jpg 59,102,239,290,2 246,180,290,205,2 227,182,258,211,2 1,183,38,270,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000603.jpg 103,65,432,295,4 81,174,105,218,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000778.jpg 95,25,363,332,0 174,63,401,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000786.jpg 350,259,376,323,0 316,259,343,325,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000806.jpg 118,109,338,267,3 190,69,293,234,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000855.jpg 150,14,378,319,4 1,131,155,303,4 443,108,500,325,4 424,198,444,241,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_000908.jpg 108,115,372,330,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001120.jpg 1,205,159,500,0 142,203,251,415,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001288.jpg 1,1,361,229,4 130,119,176,239,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001316.jpg 194,26,336,317,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001486.jpg 1,11,271,357,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001535.jpg 1,1,453,352,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001685.jpg 18,22,485,333,2 340,1,500,114,2 227,1,298,20,2 130,1,219,30,2 1,1,134,55,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001689.jpg 1,1,500,347,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001692.jpg 124,53,268,338,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001720.jpg 1,1,341,346,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001785.jpg 400,109,500,375,0 1,107,183,375,0 34,59,215,227,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001917.jpg 1,162,366,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001954.jpg 131,41,415,234,2 1,72,19,191,0 16,77,31,186,0 24,86,48,189,0 41,84,59,188,0 55,92,74,188,0 69,80,100,188,0 97,96,111,148,0 113,100,129,187,0 119,96,139,186,0 135,101,147,163,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_001960.jpg 1,59,500,375,0 249,30,473,251,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002022.jpg 238,51,500,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002039.jpg 373,25,452,58,2 236,90,271,184,0 273,118,307,182,0 302,111,339,238,0 330,103,366,216,0 359,93,436,198,0 450,124,500,265,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002166.jpg 69,136,222,374,0 207,78,325,239,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002223.jpg 286,207,310,295,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002445.jpg 5,234,97,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002452.jpg 26,23,494,301,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002461.jpg 140,35,245,141,0 198,111,477,225,0 42,127,294,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002625.jpg 166,1,500,400,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002642.jpg 74,65,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_002931.jpg 1,80,308,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003094.jpg 81,128,346,481,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003143.jpg 195,169,254,290,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003220.jpg 119,128,285,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003264.jpg 314,254,410,331,1 328,214,393,314,0 1,235,166,375,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003276.jpg 30,46,441,327,2 89,45,134,60,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003304.jpg 258,1,500,375,0 151,70,378,372,0 11,124,206,375,0 44,181,92,268,0 34,152,179,334,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003437.jpg 173,171,214,250,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003478.jpg 38,66,476,337,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003503.jpg 1,64,499,375,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003549.jpg 34,171,93,214,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003556.jpg 191,1,342,287,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003560.jpg 26,147,470,317,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003673.jpg 1,65,219,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003689.jpg 143,323,294,418,1 5,296,23,335,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003964.jpg 289,176,447,375,0 1,159,189,375,0 163,134,300,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_003995.jpg 60,1,407,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004021.jpg 1,39,192,200,2 137,61,315,124,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004033.jpg 175,89,268,313,0 95,95,182,328,0 221,214,375,500,3 2,197,175,500,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004182.jpg 14,54,483,340,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004207.jpg 27,91,459,486,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004223.jpg 1,68,488,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004469.jpg 68,172,84,229,0 86,170,110,230,0 1,115,150,375,0 148,84,300,375,0 251,61,445,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004475.jpg 178,51,257,299,0 6,204,160,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004491.jpg 1,93,441,375,0 68,1,500,302,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004554.jpg 82,32,449,341,4 447,159,500,363,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004686.jpg 291,348,355,480,2 201,276,251,436,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004766.jpg 9,11,458,326,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004786.jpg 163,37,461,375,0 48,49,279,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004848.jpg 90,54,417,344,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_004890.jpg 7,10,500,364,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005046.jpg 23,66,238,362,0 38,49,447,372,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005111.jpg 90,144,349,338,1 273,57,361,294,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005236.jpg 1,74,374,500,2 88,102,214,189,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005352.jpg 132,143,164,218,0 154,136,190,229,0 181,138,222,226,0 211,134,248,228,0 238,132,278,223,0 271,129,302,219,0 285,132,336,228,0 332,111,402,318,0 290,204,356,310,0 248,191,315,302,0 207,195,267,300,0 188,203,229,297,0 151,200,202,298,0 137,201,171,295,0 90,204,148,307,0 84,132,141,300,0 415,13,424,34,0 492,166,500,210,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005369.jpg 1,79,142,375,0 179,81,327,283,0 369,93,500,345,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005384.jpg 18,10,322,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005433.jpg 84,48,370,375,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005636.jpg 84,45,488,310,4 170,144,216,185,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005663.jpg 38,232,266,289,2 248,220,369,283,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005731.jpg 38,33,463,316,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005750.jpg 65,85,394,249,2 145,236,500,333,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005836.jpg 1,26,458,374,2 323,60,487,188,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005848.jpg 230,215,474,345,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005849.jpg 16,5,287,500,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_005904.jpg 283,14,449,172,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006089.jpg 1,18,207,480,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006090.jpg 143,24,312,377,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006130.jpg 78,136,174,450,0 35,184,91,351,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006131.jpg 61,132,130,248,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006149.jpg 277,104,373,283,0 147,149,185,228,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006160.jpg 311,95,414,332,0 217,95,265,237,0 149,172,181,273,0 179,164,207,232,0 108,172,134,236,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006169.jpg 85,125,211,451,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006173.jpg 141,16,392,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006177.jpg 74,102,422,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006183.jpg 1,1,248,400,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006233.jpg 168,73,243,342,0 80,65,224,342,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006240.jpg 124,120,401,360,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006241.jpg 47,206,208,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006248.jpg 150,70,279,259,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006250.jpg 49,57,279,420,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006261.jpg 22,71,235,266,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006266.jpg 9,116,322,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006268.jpg 205,34,271,219,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006288.jpg 163,87,318,267,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006297.jpg 276,145,468,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006313.jpg 82,161,321,493,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006324.jpg 319,99,383,297,0 219,82,298,303,0 89,99,168,310,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006328.jpg 54,14,352,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006344.jpg 150,119,207,276,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006358.jpg 141,68,287,270,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006371.jpg 146,22,370,295,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006373.jpg 1,24,407,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006374.jpg 129,86,368,325,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006389.jpg 144,147,309,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006393.jpg 67,104,252,337,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006400.jpg 137,67,298,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006408.jpg 283,127,382,303,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006412.jpg 200,100,358,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006422.jpg 230,78,306,199,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006426.jpg 117,61,225,219,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006442.jpg 141,149,258,325,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006460.jpg 199,84,246,234,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006472.jpg 2,143,332,490,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006473.jpg 153,40,350,331,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006483.jpg 81,11,337,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006485.jpg 130,26,307,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006509.jpg 159,64,340,406,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006520.jpg 1,1,200,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006521.jpg 293,109,377,297,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006526.jpg 217,206,259,332,0 162,208,213,351,0 22,198,48,249,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006561.jpg 114,32,337,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006575.jpg 31,93,198,375,0 159,148,376,375,0 335,65,454,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006592.jpg 1,22,291,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006611.jpg 1,30,327,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006613.jpg 252,94,307,223,0 171,84,220,221,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006625.jpg 219,128,310,268,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006630.jpg 74,220,203,421,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006641.jpg 1,66,117,226,0 356,57,420,131,0 392,67,456,226,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006649.jpg 151,98,405,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006650.jpg 115,117,371,351,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006654.jpg 73,34,199,434,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006683.jpg 114,125,271,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006692.jpg 17,1,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006701.jpg 203,145,378,372,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006704.jpg 202,58,489,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006755.jpg 1,113,99,375,0 95,99,183,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006773.jpg 50,243,252,499,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006774.jpg 15,45,304,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006778.jpg 30,121,91,274,0 117,156,199,309,0 304,76,391,371,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006780.jpg 136,10,271,275,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006795.jpg 53,102,297,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006798.jpg 80,168,154,393,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006799.jpg 301,125,358,277,0 133,144,224,290,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006818.jpg 71,48,493,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006823.jpg 1,38,375,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006830.jpg 104,129,245,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006832.jpg 222,135,255,251,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006833.jpg 158,193,241,464,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006842.jpg 113,52,168,185,0 404,78,500,279,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006862.jpg 120,102,246,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006885.jpg 47,16,500,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006901.jpg 200,39,357,295,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006903.jpg 3,11,151,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006908.jpg 210,87,302,335,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2010_006951.jpg 333,169,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000006.jpg 257,115,375,290,0 93,112,241,326,0 173,111,303,280,0 398,83,448,119,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000038.jpg 1,8,179,360,0 79,123,157,250,0 135,141,198,215,0 192,166,227,211,0 342,89,484,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000090.jpg 14,103,464,304,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000093.jpg 107,74,263,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000094.jpg 89,59,455,289,2 331,60,500,168,2 240,63,391,106,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000142.jpg 293,48,430,327,0 86,48,322,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000146.jpg 1,27,75,253,0 1,54,168,375,0 95,96,270,375,0 197,100,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000155.jpg 105,81,412,374,0 1,60,251,374,0 327,52,479,176,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000176.jpg 15,48,493,300,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000180.jpg 331,345,389,361,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000188.jpg 272,55,325,271,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000203.jpg 318,124,381,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000227.jpg 84,8,197,369,0 414,83,458,212,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000341.jpg 303,47,424,263,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000342.jpg 338,212,413,290,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000350.jpg 318,70,483,192,0 153,87,254,190,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000360.jpg 1,85,197,349,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000460.jpg 61,46,205,446,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000486.jpg 36,81,195,319,0 314,71,471,291,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000487.jpg 1,1,330,495,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000496.jpg 194,201,242,278,3 270,180,346,250,2 194,178,240,252,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000503.jpg 1,250,18,287,2 12,237,103,313,2 395,243,491,289,2 459,272,499,362,2 262,251,400,306,2 170,277,495,374,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000583.jpg 132,1,419,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000647.jpg 388,165,500,375,0 1,162,178,375,0 153,196,246,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000675.jpg 1,177,25,241,0 121,102,186,231,0 218,174,240,260,0 481,137,500,220,0 336,131,366,221,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000716.jpg 90,6,281,349,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000728.jpg 345,90,448,375,0 53,99,184,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000731.jpg 133,180,219,315,0 21,180,110,268,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000829.jpg 13,38,287,390,0 263,63,464,343,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000832.jpg 1,88,229,375,0 258,1,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000843.jpg 22,1,387,375,0 113,135,440,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000861.jpg 138,26,400,400,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000882.jpg 136,80,237,179,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000946.jpg 228,59,470,457,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_000950.jpg 42,68,468,320,1
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001027.jpg 115,179,422,375,0 186,113,362,303,0 48,120,211,239,0 59,92,272,199,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001038.jpg 114,111,298,289,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001039.jpg 70,46,149,303,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001043.jpg 1,73,396,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001062.jpg 1,38,499,375,2 240,95,500,205,2 1,81,50,168,0 393,69,427,127,0 473,64,498,134,0 417,69,454,130,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001095.jpg 65,37,365,320,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001170.jpg 66,8,343,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001177.jpg 261,126,351,360,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001205.jpg 1,68,166,375,0 145,1,440,375,0 309,84,465,375,0 114,70,240,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001308.jpg 274,58,500,370,0 93,58,312,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001325.jpg 1,128,352,334,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001411.jpg 2,87,500,292,4
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001422.jpg 158,238,311,375,1 81,118,260,375,0 244,101,371,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001458.jpg 262,1,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001473.jpg 1,21,311,310,0 219,35,413,310,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001483.jpg 16,28,172,224,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001520.jpg 247,61,443,334,0 125,24,311,334,0 341,53,500,334,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001583.jpg 164,56,397,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001594.jpg 149,62,243,265,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001619.jpg 388,96,482,257,0 284,84,364,375,0 137,78,239,375,0 3,90,89,365,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001691.jpg 29,191,193,424,0 278,246,337,338,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001700.jpg 32,96,214,376,0 158,148,356,402,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001732.jpg 10,207,290,500,1 104,24,285,490,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001842.jpg 331,113,500,375,0 346,117,439,278,0 316,114,373,228,0 286,95,334,181,0 174,120,211,176,0 136,123,182,215,0 83,116,151,278,0 1,117,135,344,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001883.jpg 175,83,304,384,0 144,233,280,447,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001903.jpg 92,38,258,484,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001979.jpg 92,52,500,340,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_001988.jpg 191,193,302,425,1 194,49,308,312,0 3,95,214,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002045.jpg 54,249,134,375,0 119,212,190,373,0 197,208,280,375,0 258,237,326,375,0 303,219,416,375,0 79,134,150,265,0 152,133,214,239,0 210,136,257,241,0 257,138,304,238,0 293,133,351,241,0 334,131,394,261,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002047.jpg 94,101,238,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002062.jpg 115,1,484,312,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002135.jpg 35,274,466,500,1 1,2,188,103,2 128,1,355,80,2 50,40,425,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002196.jpg 129,126,308,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002201.jpg 141,137,314,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002206.jpg 146,135,253,265,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002226.jpg 1,42,424,305,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002290.jpg 230,102,372,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002309.jpg 78,151,207,388,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002366.jpg 56,48,341,141,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002382.jpg 80,1,236,264,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002420.jpg 16,44,500,378,2 1,98,20,164,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002472.jpg 269,96,457,330,0 140,98,245,206,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002515.jpg 169,177,188,215,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002532.jpg 1,175,33,291,0 289,183,372,267,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002588.jpg 265,155,300,227,0 293,163,337,217,0 392,190,424,231,0 442,193,466,223,0 417,205,451,234,0 237,180,259,231,0 205,180,234,229,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002690.jpg 204,97,462,375,0 3,71,214,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002708.jpg 231,99,410,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002730.jpg 219,143,254,222,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002739.jpg 52,129,178,340,0 218,141,333,322,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002786.jpg 74,1,383,319,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002822.jpg 357,72,500,357,0 60,76,206,357,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002872.jpg 132,144,321,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002917.jpg 406,114,420,145,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002920.jpg 36,69,333,374,0 286,111,436,336,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002962.jpg 461,163,494,267,0 422,152,500,238,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002988.jpg 1,57,500,375,3
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_002999.jpg 119,165,189,474,0 212,150,325,474,0 193,155,223,244,0 232,162,261,237,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003038.jpg 89,143,159,226,0 1,115,136,233,0 134,87,368,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003073.jpg 406,251,473,333,2
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003118.jpg 163,83,331,470,0 1,74,214,470,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003143.jpg 315,51,500,285,0 99,15,280,231,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003165.jpg 264,97,484,375,0 76,74,220,268,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003238.jpg 167,115,259,375,0 180,106,323,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003252.jpg 92,72,480,360,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003255.jpg 1,50,284,375,0 282,1,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003280.jpg 62,1,431,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003289.jpg 31,33,486,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003297.jpg 245,54,368,375,0 63,180,181,288,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003303.jpg 229,110,329,262,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003304.jpg 132,105,255,299,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003308.jpg 317,25,411,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003317.jpg 130,47,267,164,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003348.jpg 1,1,150,375,0 115,27,277,351,0 307,22,418,321,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003364.jpg 208,203,245,259,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003375.jpg 225,174,365,375,0 53,244,95,328,0 158,237,193,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003419.jpg 96,140,328,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003452.jpg 13,180,218,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003453.jpg 192,153,255,290,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003455.jpg 64,312,105,354,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003456.jpg 219,67,294,159,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003465.jpg 161,45,317,333,0 362,70,475,323,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003474.jpg 144,236,307,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003491.jpg 96,37,373,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003518.jpg 198,209,236,318,0 243,215,267,267,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003524.jpg 167,247,181,284,0 191,248,207,290,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003534.jpg 1,59,358,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003567.jpg 245,37,500,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003576.jpg 144,17,362,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003583.jpg 140,1,441,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003589.jpg 252,119,375,256,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003625.jpg 320,94,399,291,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003659.jpg 61,35,368,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003730.jpg 202,252,236,354,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003801.jpg 164,144,266,297,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003820.jpg 212,69,275,189,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003876.jpg 15,156,217,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003908.jpg 50,25,249,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003917.jpg 276,160,297,215,0 254,163,274,215,0 36,151,64,218,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003942.jpg 27,195,94,301,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_003960.jpg 188,132,265,305,0 122,189,151,246,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004052.jpg 238,83,442,258,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004074.jpg 1,138,176,375,0 252,136,379,328,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004077.jpg 218,53,333,259,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004080.jpg 76,137,235,455,0 209,144,372,454,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004084.jpg 206,178,275,349,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004116.jpg 164,181,221,315,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004199.jpg 1,148,235,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004231.jpg 212,225,229,243,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004234.jpg 336,137,443,297,0 221,101,341,237,0 75,109,202,255,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004238.jpg 356,65,440,350,0 201,47,314,353,0 99,129,212,354,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004271.jpg 69,182,137,300,0 298,242,338,276,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004274.jpg 298,68,438,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004316.jpg 264,75,427,306,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004323.jpg 239,135,284,264,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004391.jpg 93,66,224,257,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004442.jpg 2,2,383,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004462.jpg 1,63,400,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004478.jpg 29,50,266,486,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004510.jpg 16,3,226,498,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004520.jpg 399,1,500,333,0 109,51,338,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004527.jpg 179,26,304,162,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004537.jpg 131,173,233,320,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004540.jpg 296,158,384,247,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004545.jpg 318,166,365,283,0 173,172,206,265,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004555.jpg 1,1,498,299,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004605.jpg 89,1,449,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004625.jpg 1,1,333,475,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004652.jpg 1,48,317,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004676.jpg 266,138,329,209,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004688.jpg 17,85,327,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004727.jpg 153,394,171,452,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004752.jpg 1,40,279,355,0 358,47,500,304,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004768.jpg 210,46,307,319,0 371,96,414,216,0 97,92,129,186,0 326,106,359,189,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004772.jpg 99,90,160,277,0 128,82,213,305,0 200,86,294,337,0 273,45,397,342,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004776.jpg 34,13,333,500,0 4,200,323,486,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004822.jpg 252,25,456,348,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004824.jpg 244,132,351,221,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004916.jpg 114,44,343,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004929.jpg 125,90,195,274,0 334,87,409,240,0 26,102,68,209,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004956.jpg 141,12,359,319,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004973.jpg 200,156,283,427,0 130,157,211,390,0 69,147,159,410,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_004980.jpg 247,70,311,210,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005034.jpg 302,153,353,284,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005039.jpg 72,265,250,437,0 36,111,209,369,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005072.jpg 138,48,297,488,0 6,134,86,324,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005100.jpg 90,90,259,470,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005111.jpg 165,101,293,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005150.jpg 111,177,347,461,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005171.jpg 66,118,237,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005215.jpg 211,113,304,275,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005219.jpg 1,1,375,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005243.jpg 205,34,271,201,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005255.jpg 61,54,342,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005283.jpg 400,197,462,375,0 273,220,310,309,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005284.jpg 71,24,430,342,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005289.jpg 29,33,198,352,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005293.jpg 166,115,229,258,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005301.jpg 1,199,166,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005305.jpg 34,103,109,256,0 94,124,171,352,0 237,20,353,248,0 175,134,270,331,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005317.jpg 29,84,313,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005388.jpg 4,136,333,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005394.jpg 120,129,233,323,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005409.jpg 33,13,405,475,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005410.jpg 115,101,240,364,0 411,88,482,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005412.jpg 216,63,312,182,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005422.jpg 1,34,365,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005431.jpg 15,62,216,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005447.jpg 238,240,363,500,0 165,235,270,500,0 87,207,202,500,0 29,245,59,336,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005457.jpg 1,65,375,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005462.jpg 111,11,409,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005474.jpg 116,41,284,297,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005494.jpg 101,89,273,437,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005525.jpg 1,105,332,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005541.jpg 153,207,199,347,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005564.jpg 402,1,463,152,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005568.jpg 295,60,411,333,0 36,62,141,305,0 165,46,229,256,0 406,51,489,263,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005577.jpg 102,2,202,254,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005591.jpg 99,146,244,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005601.jpg 153,100,297,334,0 74,62,367,352,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005612.jpg 245,166,346,454,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005645.jpg 47,78,408,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005660.jpg 92,36,448,400,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005673.jpg 225,72,303,194,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005686.jpg 50,49,265,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005694.jpg 25,181,240,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005708.jpg 170,88,250,228,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005721.jpg 100,130,141,243,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005861.jpg 1,100,273,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005896.jpg 224,88,314,274,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005902.jpg 25,96,131,356,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005910.jpg 176,144,377,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005929.jpg 132,97,243,294,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_005933.jpg 113,7,440,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006084.jpg 221,99,500,276,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006092.jpg 349,182,468,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006101.jpg 32,105,236,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006118.jpg 101,130,327,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006159.jpg 104,106,227,266,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006181.jpg 108,128,182,239,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006221.jpg 64,68,116,216,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006234.jpg 196,71,326,272,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006262.jpg 363,172,431,279,0 444,171,473,263,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006280.jpg 150,235,214,453,0 48,237,120,432,0 255,211,313,394,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006297.jpg 199,9,300,172,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006321.jpg 293,39,343,170,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006385.jpg 190,388,227,492,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006420.jpg 57,3,183,128,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006425.jpg 84,44,213,351,0 317,93,422,339,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006489.jpg 303,180,364,331,0 210,171,274,300,0 443,193,485,326,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006511.jpg 9,1,195,217,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006515.jpg 79,115,314,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006555.jpg 80,124,153,210,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006585.jpg 1,60,290,257,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006604.jpg 165,49,303,308,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006650.jpg 277,101,428,271,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006691.jpg 305,8,499,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006800.jpg 200,262,238,362,0 28,264,67,365,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006823.jpg 151,235,256,359,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006828.jpg 166,131,240,371,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006896.jpg 264,107,453,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006935.jpg 219,270,242,305,0 66,267,96,313,0 43,268,65,315,0 204,265,213,286,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006944.jpg 17,59,261,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006954.jpg 184,91,401,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_006988.jpg 197,85,434,302,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_007028.jpg 323,48,461,276,0 1,43,143,163,0 34,119,216,375,0 341,105,500,375,0 198,59,338,131,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_007110.jpg 169,141,295,314,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_007112.jpg 162,1,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_007123.jpg 74,51,302,329,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_007124.jpg 373,157,461,343,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_007202.jpg 16,46,403,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2011_007213.jpg 1,1,433,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000042.jpg 36,112,370,403,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000089.jpg 121,85,229,291,0 246,91,375,328,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000218.jpg 94,1,347,300,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000229.jpg 204,82,290,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000242.jpg 25,122,126,374,0 114,130,279,396,0 231,137,375,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000282.jpg 162,84,301,334,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000295.jpg 175,87,314,233,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000338.jpg 6,20,112,177,0 94,9,200,174,0 189,83,280,258,0 266,53,354,240,0 342,50,436,169,0 416,60,496,212,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000368.jpg 162,69,302,200,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000380.jpg 157,58,482,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000384.jpg 112,49,213,240,0 207,94,282,235,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000409.jpg 124,110,252,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000465.jpg 114,142,278,318,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000481.jpg 78,32,216,469,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000513.jpg 155,144,211,234,0 382,101,438,246,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000565.jpg 359,94,407,177,0 318,99,354,171,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000572.jpg 204,229,375,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000586.jpg 74,50,344,421,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000616.jpg 21,35,252,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000618.jpg 23,146,90,258,0 347,143,478,309,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000656.jpg 127,53,325,382,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000674.jpg 273,162,326,302,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000692.jpg 1,59,365,500,0 4,152,183,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000771.jpg 224,30,317,167,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000806.jpg 44,59,132,201,0 405,117,456,282,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000873.jpg 174,39,489,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000897.jpg 47,41,288,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000938.jpg 221,54,358,326,0 354,49,418,228,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_000982.jpg 228,167,297,271,0 73,182,102,245,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001000.jpg 297,80,449,338,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001046.jpg 1,110,300,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001136.jpg 295,100,404,305,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001150.jpg 55,146,327,400,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001154.jpg 141,78,204,217,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001156.jpg 216,75,331,232,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001158.jpg 194,44,336,355,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001159.jpg 117,157,216,301,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001188.jpg 158,104,260,390,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001190.jpg 239,94,500,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001195.jpg 350,171,478,303,0 205,115,305,252,0 14,67,123,263,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001201.jpg 198,374,256,459,0 64,324,124,390,0 115,74,297,289,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001213.jpg 364,27,500,253,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001214.jpg 165,97,213,172,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001226.jpg 345,76,477,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001233.jpg 293,116,452,324,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001241.jpg 237,165,271,226,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001245.jpg 274,168,385,352,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001356.jpg 93,32,238,461,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001363.jpg 105,192,248,471,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001381.jpg 225,99,352,375,0 1,195,141,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001395.jpg 275,38,337,138,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001408.jpg 77,108,376,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001414.jpg 29,56,188,361,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001431.jpg 31,30,238,366,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001437.jpg 20,72,181,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001476.jpg 166,60,336,323,0 391,167,431,277,0 436,168,459,219,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001502.jpg 102,1,407,287,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001526.jpg 232,177,249,211,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001584.jpg 344,134,410,279,0 288,138,341,278,0 182,132,231,288,0 453,111,500,231,0 226,124,277,284,0 14,138,54,239,0 92,140,129,239,0 386,124,414,258,0 414,134,450,248,0 150,132,197,276,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001604.jpg 1,23,223,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001616.jpg 359,98,440,308,0 217,130,247,210,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001639.jpg 175,167,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001641.jpg 1,241,375,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001647.jpg 56,58,474,463,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001676.jpg 152,95,243,267,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001678.jpg 266,100,325,240,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001691.jpg 49,62,189,301,0 252,84,412,305,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001702.jpg 47,1,153,190,0 266,1,316,134,0 212,4,271,131,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001720.jpg 57,95,180,330,0 403,137,444,240,0 301,144,327,233,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001733.jpg 57,155,80,212,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001767.jpg 36,109,203,312,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001771.jpg 86,6,381,334,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001806.jpg 292,268,320,344,0 313,256,340,346,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001844.jpg 1,63,308,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001849.jpg 145,77,311,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001874.jpg 309,1,386,220,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001882.jpg 279,177,307,253,0 36,200,72,288,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001926.jpg 1,92,223,333,0 315,77,495,332,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001929.jpg 75,5,472,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001938.jpg 45,172,161,469,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_001976.jpg 159,154,298,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002004.jpg 1,91,168,375,0 329,1,448,131,0 54,11,138,132,0 405,7,500,213,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002008.jpg 178,121,285,447,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002085.jpg 1,1,258,194,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002086.jpg 214,44,303,381,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002105.jpg 223,65,358,223,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002127.jpg 144,1,500,325,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002207.jpg 59,29,293,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002208.jpg 129,1,500,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002212.jpg 76,7,283,404,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002229.jpg 104,170,140,229,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002263.jpg 349,82,411,194,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002266.jpg 362,158,440,217,0 65,150,126,282,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002301.jpg 269,56,353,299,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002309.jpg 40,95,241,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002316.jpg 160,150,238,228,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002321.jpg 421,40,483,255,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002337.jpg 118,4,249,261,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002338.jpg 30,40,477,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002364.jpg 233,89,293,218,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002368.jpg 260,111,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002393.jpg 74,84,424,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002401.jpg 196,82,284,206,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002426.jpg 177,139,232,287,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002437.jpg 115,164,155,335,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002462.jpg 227,26,400,240,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002470.jpg 112,1,350,467,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002478.jpg 142,260,223,481,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002504.jpg 180,7,372,176,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002552.jpg 336,148,403,262,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002555.jpg 152,174,196,306,0 257,172,295,283,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002572.jpg 198,37,313,267,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002583.jpg 165,27,277,114,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002603.jpg 47,179,118,233,0 172,121,232,164,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002633.jpg 177,101,312,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002646.jpg 100,295,248,422,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002649.jpg 240,141,263,201,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002670.jpg 270,130,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002700.jpg 10,6,383,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002765.jpg 278,176,340,270,0 35,185,80,295,0 94,184,115,227,0 199,186,220,224,0 408,174,450,234,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002799.jpg 228,111,288,285,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002849.jpg 223,119,358,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002862.jpg 1,1,318,252,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002921.jpg 174,85,253,212,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002924.jpg 10,46,305,374,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002944.jpg 115,1,382,312,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_002956.jpg 49,142,188,428,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003024.jpg 218,164,287,291,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003027.jpg 56,135,500,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003089.jpg 136,13,375,334,0 355,30,500,285,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003102.jpg 190,31,325,338,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003115.jpg 119,30,181,116,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003168.jpg 109,59,200,277,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003170.jpg 42,183,148,443,0 135,205,189,337,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003175.jpg 196,82,362,267,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003203.jpg 237,64,340,375,0 177,74,290,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003233.jpg 140,1,314,220,0 175,194,232,235,0 161,232,198,253,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003274.jpg 109,105,311,448,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003294.jpg 1,28,403,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003306.jpg 311,138,395,323,0 130,131,156,222,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003440.jpg 159,325,260,471,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003492.jpg 356,44,397,155,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003502.jpg 83,7,360,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003539.jpg 181,51,280,292,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003540.jpg 68,159,237,478,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003571.jpg 96,1,375,452,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003624.jpg 130,117,316,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003670.jpg 128,102,466,305,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003690.jpg 46,22,495,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003706.jpg 140,254,235,412,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003731.jpg 1,1,386,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003741.jpg 97,104,169,267,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003811.jpg 11,151,56,277,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003822.jpg 165,67,354,310,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003842.jpg 190,194,308,474,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003875.jpg 52,94,270,274,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003877.jpg 191,82,500,353,0 1,16,105,255,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003930.jpg 192,23,328,269,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003937.jpg 108,302,230,425,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003940.jpg 214,65,373,327,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003949.jpg 1,17,379,371,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_003958.jpg 243,392,350,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004021.jpg 1,1,176,500,0 292,1,375,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004080.jpg 198,157,257,331,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004086.jpg 15,103,397,500,0 63,56,419,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004088.jpg 1,22,302,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004098.jpg 168,1,500,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004112.jpg 204,120,333,333,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004120.jpg 117,168,251,487,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004126.jpg 55,149,175,461,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004192.jpg 150,156,193,251,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004196.jpg 143,7,387,375,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004198.jpg 47,100,105,301,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004210.jpg 62,32,217,300,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004229.jpg 3,158,120,407,0 1,175,344,500,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004298.jpg 86,112,201,207,0
+D:\A-wcl\hazy_detect\TogetherNet-11.13\TogetherNet-main\VOCdevkit/VOC2007/clean/2012_004299.jpg 36,72,227,322,0
